@@ -1,5 +1,5 @@
 
-# CONTRIBUTING TO UNDERSHELL.
+# CONTRIBUTING TO UNDERSHELL. 
 
 > 🚧 **Note: This repository is currently private/internal. Contributions are limited to the core development team only.**
 
@@ -7,7 +7,7 @@ Undershell is a platform-focused initiative to redefine women's safety through s
 
 ---
 
-## 📦 Who Can Contribute?
+## 📦 Who Can Contribute??
 
 Only the following contributors are currently approved for commits, pull requests, or feature branches:
 
