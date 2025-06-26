@@ -123,6 +123,6 @@ npx react-native run-android
 
 ## 📜 License & Contributions
 
-[MIT License](./LICENSE)
-[Contributing Guidelines](./CONTRIBUTING.md) – **For internal team only**
+- [MIT License](./LICENSE)
+- [Contributing Guidelines](./CONTRIBUTING.md) – **For internal team only**
 
