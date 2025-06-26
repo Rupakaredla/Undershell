@@ -108,14 +108,6 @@ npx react-native run-android
 
 > _“Technology meets empathy to become a lifeline.”_
 
-Undershell is open to contributors in:
-
-- 🚀 Mobile / Backend Devs
-- 🧠 AI/ML Voice Trigger Experts
-- 📡 Hardware Integration Engineers
-- 🎨 UI/UX Designers
-- 📣 Social Impact Advocates
-
 📬 Reach out: **undershell24@gmail.com**  
 
 ---
