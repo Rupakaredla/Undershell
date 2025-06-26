@@ -121,9 +121,10 @@ Undershell is open to contributors in:
 
 ---
 
-## 👥 Team
+## 👥 Core Team
 
 - 👩‍💻 K. Rupa Yeshvitha
+- 🧑‍💻 K. Pardhu Sree Rushi Varma
 - 👨‍💼 K. Veera Babu
 - 👨‍🔧 E. Arun Goud
 
