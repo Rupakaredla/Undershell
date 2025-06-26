@@ -78,32 +78,6 @@ Undershell is built for **community policing**, with core modules assisting law 
 
 ---
 
-## 🛠️ Setup for Developers
-
-```bash
-# Clone the repo
-git clone https://github.com/<your-org>/Undershell.git && cd Undershell
-
-# Install dependencies (example for Node backend)
-cd backend
-npm install
-
-# Start local dev server
-npm run dev
-```
-
-For the mobile app:
-
-```bash
-cd mobile-app
-npm install
-npx react-native run-android
-```
-
-> ⚠️ Note: For SMS and voice command simulation, you may need Twilio or GSM emulator credentials.
-
----
-
 ## 🙋‍♀️ Join the Mission
 
 > _“Technology meets empathy to become a lifeline.”_
