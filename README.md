@@ -129,6 +129,8 @@ Undershell is open to contributors in:
 
 ---
 
-## 📜 License
+## 📜 License & Contributions
 
 [MIT License](./LICENSE)
+[Contributing Guidelines](./CONTRIBUTING.md) – **For internal team only**
+
