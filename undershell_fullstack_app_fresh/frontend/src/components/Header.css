@@ -1,0 +1,18 @@
+.header-container {
+  padding: 1.5rem 0 1rem 0;
+  background: linear-gradient(90deg, #fbe9e7 0%, #fff 100%);
+  box-shadow: 0 2px 12px rgba(229, 57, 53, 0.07);
+  text-align: center;
+  border-bottom-left-radius: 18px;
+  border-bottom-right-radius: 18px;
+}
+
+.header-title {
+  margin: 0;
+  font-size: 2.5rem;
+  color: #e53935;
+  letter-spacing: 3px;
+  font-family: 'Segoe UI', Arial, sans-serif;
+  font-weight: 700;
+  text-shadow: 0 2px 8px rgba(229, 57, 53, 0.08);
+}

@@ -1,0 +1,51 @@
+.sos-form-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.2rem;
+  margin-top: 3rem;
+  background: #fff;
+  padding: 2.5rem 2rem;
+  border-radius: 16px;
+  box-shadow: 0 4px 24px rgba(229, 57, 53, 0.08), 0 1.5px 4px rgba(0,0,0,0.04);
+  max-width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.sos-form-btn {
+  padding: 0.9rem 2rem;
+  margin: 0.2rem;
+  background: linear-gradient(90deg, #e53935 60%, #ff7043 100%);
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  font-size: 1.1rem;
+  font-weight: 600;
+  cursor: pointer;
+  box-shadow: 0 2px 8px rgba(229, 57, 53, 0.08);
+  transition: background 0.2s, transform 0.1s;
+}
+
+.sos-form-btn:hover {
+  background: linear-gradient(90deg, #b71c1c 60%, #ff7043 100%);
+  transform: translateY(-2px) scale(1.03);
+}
+
+.sos-form-location {
+  font-size: 1.08rem;
+  color: #444;
+  margin: 0.5rem 0;
+  background: #f8f8f8;
+  padding: 0.5rem 1rem;
+  border-radius: 6px;
+  min-width: 220px;
+  text-align: center;
+  box-shadow: 0 1px 3px rgba(229, 57, 53, 0.04);
+}
+
+a.sos-form-btn {
+  display: inline-block;
+  text-decoration: none;
+  text-align: center;
+}
