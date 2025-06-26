@@ -117,7 +117,6 @@ Undershell is open to contributors in:
 - 📣 Social Impact Advocates
 
 📬 Reach out: **undershell24@gmail.com**  
-📞 +91 99088 20050
 
 ---
 
