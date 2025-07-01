@@ -33,9 +33,9 @@ hotfix/<patch-description>
 
 ### 2. Pull Request Rules
 
-- All PRs must be reviewed by **at least 1 team member**.
+- All PRs must be reviewed by **at least 1 team member or repository administrators**.
 - PR title should include the issue number or feature name.
-- Avoid pushing directly to `main`.
+- Strictly Avoid pushing directly to `main` without review.
 
 ### 3. Commit Messages
 
