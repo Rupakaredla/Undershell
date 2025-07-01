@@ -67,7 +67,7 @@ Before pushing or merging, make sure:
 
 ## 🔐 Confidentiality
 
-**Undershell** is **not open-source** at this stage. **Do not share code, screenshots, or implementation details externally without prior permission from the core team.**
+**Undershell** is **semi open-source** at this stage. **Do not share code, screenshots, or implementation details externally without prior permission from the core team.**
 
 ---
 
