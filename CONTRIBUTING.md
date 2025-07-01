@@ -1,7 +1,7 @@
 
 # CONTRIBUTING TO UNDERSHELL. 
 
-> 🚧 **Note: This repository is currently private/internal. Contributions are limited to the core development team only.**
+> 🚧 **Note: This Repository/Project Development is currently private/internal. Contributions are limited to the core development team only.**
 
 Undershell is a platform-focused initiative to redefine women's safety through smart technology. As we are in active development, contributions are **restricted to invited collaborators and internal team members**.
 
